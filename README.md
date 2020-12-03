@@ -27,7 +27,7 @@
 ```scp -i path/privatekey -r path/folder user@publicip:path/destination```
 
 ### App running on port 3000
-![app running on port 3000](app p3000.png)
+![app running on port 3000](app%20p3000.png)
 
 ### App running on port 80
-![app running on port 80](app p80.png)
+![app running on port 80](app%20p80.png)
